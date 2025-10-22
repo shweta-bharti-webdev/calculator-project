@@ -24,3 +24,4 @@ arr.forEach(button => {
         }
     })
 })
+
